@@ -67,15 +67,13 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/KristineMK72/KristineMK72/output/github-contribution-grid-snake.svg)
+**Here's what a contribution snake looks like** (your contribution graph turned into a little snake that eats the green squares):
 
-*This is your contribution graph turned into a little snake that "eats" the green squares. It updates automatically once the Action runs.*
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Example contribution snake" width="700" />
 
-**Example of what it looks like when generated:**
+<br>
 
-![Example contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-*(Yours will appear above after you run the "Generate Snake" Action once in the Actions tab of this repo.)*
+*Your personal snake will appear here automatically once the "Generate Snake" Action runs. Go to the Actions tab in this repo and click Run workflow.*
 
 </div>
 
