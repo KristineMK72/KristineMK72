@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=280&section=header&text=Kristine%20Kahler&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mapping%20People%20%26%20Places%20%7C%20Full-Stack%20Builder%20%7C%20Local%20Impact&descAlignY=55&descAlign=50&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Kristine%20Kahler&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+tools+that+connect+people+to+places;GIS+%2B+AI+for+Greater+Minnesota;AskBen+%7C+Spatialytics+%7C+ShiftSprout;Sourcing+salvage+%26+building+affordable+housing)](https://git.io/typing-svg)
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=120&section=footer" alt="Footer" />
 
 **Thanks for visiting!** Feel free to explore the repos, open issues, or reach out — always down to collaborate on place-based tech, local impact, or cool builds. 🗺️✨
 
