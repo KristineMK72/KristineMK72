@@ -18,6 +18,14 @@
 - 💄 Fun fact: I have a *ton* of lipstick
 - 📪 Reach me: [kkahler190@gmail.com](mailto:kkahler190@gmail.com)
 
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Sunset_over_Lake_Phalen.jpg" alt="Sunset over a Minnesota lake" width="700" />
+
+*Sunset over Lake Phalen, Minnesota — the kind of place that inspires the work.*
+
+</div>
+
 ---
 
 ## 🛠️ Tech & Tools
