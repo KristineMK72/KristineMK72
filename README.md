@@ -16,7 +16,7 @@
 - 🌱 Currently working on spatial analysis, local economic tools, homelessness research, and indie SaaS (AskBen financial triage, Spatialytics family)
 - 🏠 Building a pole-barn home conversion in Minnesota while sourcing free/salvage materials
 - 💄 Fun fact: I have a *ton* of lipstick
-- 📫 Reach me: [kkahler190@gmail.com](mailto:kkahler190@gmail.com)
+- 📪 Reach me: [kkahler190@gmail.com](mailto:kkahler190@gmail.com)
 
 ---
 
@@ -68,6 +68,14 @@
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/KristineMK72/KristineMK72/output/github-contribution-grid-snake.svg)
+
+*This is your contribution graph turned into a little snake that "eats" the green squares. It updates automatically once the Action runs.*
+
+**Example of what it looks like when generated:**
+
+![Example contribution snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+*(Yours will appear above after you run the "Generate Snake" Action once in the Actions tab of this repo.)*
 
 </div>
 
